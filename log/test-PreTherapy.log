@@ -1,0 +1,11 @@
+Scenario - 
+Logfile written - 02/04/2016 12:29:39
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	1	Picture	Experiment uvod	166	0	1	60217	2	0	next	other	0
+test	1	Response	0	60277	60111	1
+test	2	Picture	Experiment info	60383	0	1	6005	2	0	next	other	0
+test	2	Response	0	66356	5973	1
+test	3	Picture	Baseline open PRE	66388	0	1	134350	2	0	600000	other	0
+test	3	Quit		199635	133247

@@ -1,0 +1,22 @@
+Scenario - 
+Logfile written - 02/01/2016 16:55:32
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test01 zzzk	1	Picture	Experiment uvod	166	0	1	12510	3	0	next	other	0
+test01 zzzk	1	Response	0	12486	12320	2
+test01 zzzk	2	Picture	Experiment info	12676	0	2	2502	4	0	next	other	0
+test01 zzzk	2	Response	0	15046	2370	1
+test01 zzzk	3	Picture	Baseline open PRE	15178	0	2	600162	3	0	600000	other	0
+test01 zzzk	3	Response	0	17606	2428	1
+test01 zzzk	3	Response	0	20486	5308	1
+test01 zzzk	4	Picture	Baseline close PRE	615507	0	1	600161	3	0	600000	other	0
+test01 zzzk	5	Sound	Ding	1215669	0	2			0		other	0
+test01 zzzk	6	Picture	Experiment start	1221840	0	1	50041	3	0	next	other	0
+test01 zzzk	7	Picture	+	1271881	0	2	24354	3	0	24330	other	0
+test01 zzzk	8	Picture	P_People_183_h	1297689	0	214	30072	215	0	30000	other	0
+test01 zzzk	9	Picture	+	1327928	0	1	40533	2	0	40380	other	0
+test01 zzzk	10	Picture	P_Faces_096_h	1369796	0	1	30024	3	0	30000	other	0
+test01 zzzk	11	Picture	+	1399987	0	1	22018	2	0	22000	other	0
+test01 zzzk	12	Picture	P_Objects_075_h	1423340	0	1	12526	2	0	30000	other	0
+test01 zzzk	12	Quit		1434712	11372

@@ -1,0 +1,43 @@
+Scenario - 
+Logfile written - 02/02/2016 16:12:57
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+TEF-01 zk	1	Picture	Experiment uvod	166	0	1	1389145	2	0	next	other	0
+TEF-01 zk	1	Response	0	1389226	1389060	2
+TEF-01 zk	2	Picture	Experiment info	1389311	0	1	3169	3	0	next	other	0
+TEF-01 zk	2	Response	0	1392426	3115	1
+TEF-01 zk	3	Picture	Baseline open PRE	1392480	0	2	600161	4	0	600000	other	0
+TEF-01 zk	4	Picture	Baseline close PRE	1992808	0	2	600161	4	0	600000	other	0
+TEF-01 zk	5	Sound	Ding	2592970	0	2			0		other	0
+TEF-01 zk	6	Picture	Experiment start	2599141	0	1	50041	3	0	next	other	0
+TEF-01 zk	7	Picture	+	2649182	0	2	34195	3	0	34140	other	0
+TEF-01 zk	8	Picture	P_People_030_h	2684878	0	2	30025	3	0	30000	other	0
+TEF-01 zk	9	Picture	+	2715070	0	1	36530	2	0	36460	other	0
+TEF-01 zk	10	Picture	N_People_098_h	2752752	0	184	30040	186	0	30000	other	0
+TEF-01 zk	11	Picture	+	2782959	0	2	20184	3	0	20100	other	0
+TEF-01 zk	12	Picture	N_Objects_125_h	2804477	0	1	30025	2	0	30000	other	0
+TEF-01 zk	13	Picture	+	2834668	0	2	45872	3	0	45860	other	0
+TEF-01 zk	14	Picture	P_Animals_130_h	2881874	0	1	30025	2	0	30000	other	0
+TEF-01 zk	15	Picture	+	2912066	0	1	35862	3	0	35750	other	0
+TEF-01 zk	16	Picture	N_Animals_032_h	2949255	0	22	30033	23	0	30000	other	0
+TEF-01 zk	17	Picture	+	2979454	0	2	43870	3	0	43820	other	0
+TEF-01 zk	18	Picture	N_Faces_298_h	3024658	0	2	30025	3	0	30000	other	0
+TEF-01 zk	19	Picture	+	3054850	0	1	44036	2	0	43970	other	0
+TEF-01 zk	20	Picture	N_Objects_039_h	3100221	0	1	30024	3	0	30000	other	0
+TEF-01 zk	21	Picture	+	3130412	0	1	27189	2	0	27170	other	0
+TEF-01 zk	22	Picture	N_Animals_067_h	3158936	0	1	30024	2	0	30000	other	0
+TEF-01 zk	23	Picture	+	3189127	0	1	45871	2	0	45850	other	0
+TEF-01 zk	24	Picture	N_Landscapes_005_h	3236333	0	1	30024	3	0	30000	other	0
+TEF-01 zk	25	Picture	+	3266524	0	2	22686	3	0	22530	other	0
+TEF-01 zk	26	Picture	P_Objects_075_h	3290355	0	190	30047	191	0	30000	other	0
+TEF-01 zk	27	Picture	+	3320569	0	1	42368	2	0	42260	other	0
+TEF-01 zk	28	Picture	N_Animals_050_h	3364271	0	2	30025	3	0	30000	other	0
+TEF-01 zk	29	Picture	+	3394463	0	1	37864	3	0	37710	other	0
+TEF-01 zk	30	Picture	P_People_183_h	3433662	0	1	30025	2	0	30000	other	0
+TEF-01 zk	31	Picture	+	3463853	0	2	47206	3	0	47100	other	0
+TEF-01 zk	32	Picture	N_Objects_150_h	3512393	0	2	30025	3	0	30000	other	0
+TEF-01 zk	33	Picture	+	3542585	0	1	23519	3	0	23360	other	0
+TEF-01 zk	34	Picture	P_Objects_078_h	3567439	0	1	30024	3	0	30000	other	0
+TEF-01 zk	35	Picture	+	3597630	0	2	11640	3	0	30890	other	0
+TEF-01 zk	35	Quit		3608242	10612

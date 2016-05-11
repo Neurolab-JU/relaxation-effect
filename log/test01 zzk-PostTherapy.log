@@ -1,0 +1,55 @@
+Scenario - 
+Logfile written - 02/01/2016 16:34:13
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test01 zzk	1	Picture	Experiment uvod	166	0	1	19349	2	0	next	other	0
+test01 zzk	1	Response	0	19425	19259	2
+test01 zzk	2	Picture	Experiment info	19515	0	1	18849	2	0	next	other	0
+test01 zzk	2	Response	0	38305	18790	1
+test01 zzk	3	Picture	Baseline open PRE	38364	0	1	600162	2	0	600000	other	0
+test01 zzk	3	Response	0	61345	22981	1
+test01 zzk	4	Picture	Baseline close PRE	638692	0	2	600162	3	0	600000	other	0
+test01 zzk	5	Sound	Ding	1238855	0	1			0		other	0
+test01 zzk	6	Picture	Experiment start	1245026	0	1	50041	2	0	next	other	0
+test01 zzk	7	Picture	+	1295067	0	1	50041	2	0	49940	other	0
+test01 zzk	8	Picture	P_People_161_h	1346574	0	203	30060	204	0	30000	other	0
+test01 zzk	9	Picture	+	1376801	0	1	49874	3	0	49840	other	0
+test01 zzk	10	Picture	N_Faces_013_h	1428010	0	1	30025	2	0	30000	other	0
+test01 zzk	11	Picture	+	1458201	0	2	34529	3	0	34420	other	0
+test01 zzk	12	Picture	P_Objects_081_h	1494064	0	2	30025	3	0	30000	other	0
+test01 zzk	13	Picture	+	1524256	0	1	27189	2	0	27070	other	0
+test01 zzk	14	Picture	N_People_022_h	1552779	0	2	30025	3	0	30000	other	0
+test01 zzk	15	Picture	+	1582971	0	1	38532	2	0	38430	other	0
+test01 zzk	16	Picture	N_People_241_h	1622802	0	203	30060	204	0	30000	other	0
+test01 zzk	17	Picture	+	1653029	0	1	33361	2	0	33340	other	0
+test01 zzk	18	Picture	N_Objects_013_h	1687724	0	1	30025	2	0	30000	other	0
+test01 zzk	19	Picture	+	1717916	0	1	26021	2	0	25860	other	0
+test01 zzk	20	Picture	N_People_010_h	1745939	0	1	30024	3	0	30000	other	0
+test01 zzk	21	Picture	+	1776130	0	2	43202	4	0	43140	other	0
+test01 zzk	22	Picture	P_Faces_304_h	1820667	0	1	30025	2	0	30000	other	0
+test01 zzk	23	Picture	+	1850858	0	2	20184	3	0	20170	other	0
+test01 zzk	24	Picture	N_People_237_h	1872366	0	13	30035	14	0	30000	other	0
+test01 zzk	25	Picture	+	1902568	0	1	23686	2	0	23520	other	0
+test01 zzk	26	Picture	N_Animals_038_h	1927588	0	2	30025	3	0	30000	other	0
+test01 zzk	27	Picture	+	1957780	0	1	25021	2	0	24870	other	0
+test01 zzk	28	Picture	N_Faces_018_h	1984135	0	1	30025	2	0	30000	other	0
+test01 zzk	29	Picture	+	2014327	0	1	37864	2	0	37760	other	0
+test01 zzk	30	Picture	P_Faces_234_h	2053526	0	1	30024	3	0	30000	other	0
+test01 zzk	31	Picture	+	2083717	0	1	26188	3	0	26130	other	0
+test01 zzk	32	Picture	P_Faces_314_h	2111240	0	1	30025	2	0	30000	other	0
+test01 zzk	33	Picture	+	2141431	0	2	45872	3	0	45730	other	0
+test01 zzk	34	Picture	N_Faces_034_h	2188637	0	1	30025	2	0	30000	other	0
+test01 zzk	35	Picture	+	2218829	0	1	40033	2	0	39890	other	0
+test01 zzk	36	Picture	P_People_175_h	2260196	0	1	30025	2	0	30000	other	0
+test01 zzk	37	Picture	+	2290388	0	1	33694	2	0	33620	other	0
+test01 zzk	38	Picture	P_Faces_359_h	2325416	0	2	30025	3	0	30000	other	0
+test01 zzk	39	Picture	+	2355608	0	1	25521	2	0	25380	other	0
+test01 zzk	40	Picture	N_Faces_368_h	2382454	0	16	30034	18	0	30000	other	0
+test01 zzk	41	Picture	+	2412655	0	1	29858	2	0	29730	other	0
+test01 zzk	42	Picture	P_Objects_266_h	2443847	0	2	30025	3	0	30000	other	0
+test01 zzk	43	Picture	+	2474039	0	1	26188	2	0	26160	other	0
+test01 zzk	44	Picture	N_Animals_032_h	2501729	0	1	30024	3	0	30000	other	0
+test01 zzk	45	Picture	+	2531920	0	1	45871	2	0	45840	other	0
+test01 zzk	46	Picture	N_People_200_h	2579126	0	1	27805	2	0	30000	other	0
+test01 zzk	46	Quit		2605957	26831
